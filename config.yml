@@ -1,4 +1,4 @@
-baseURL: ""https://nirgf.github.io" 
+baseURL: "https://nirgf.github.io" 
 title: Nir Goldfriend
 paginate: 20
 theme: PaperMod
@@ -11,25 +11,24 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
+        - name: Research
           url: papers/
           weight: 2
-        - name: Courses
-          url: courses/
+        - name: Work in Progress
+          url: wp/
           weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://www.linkedin.com/in/nir-goldfriend-a556b6176
-          weight: 6
+        - name: Home
+          url: /
+          weight: 1
+         # url: data/
+          #weight: 3 
+        #- name: Readings
+         # url: readings/
+          #weight: 4
 
 params:
-    description: "I am a physicist in background and an engineer in practice."
-    author: Nir Goldfriend
+    description: "I am a physicist"
+    author: Nir
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -42,8 +41,7 @@ params:
     ShowPostNavLinks: false
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
-    ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    ShowRssButtonInSectionTermList: false
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -54,47 +52,44 @@ params:
     profileMode:
           enabled: true
           title: Nir Goldfriend
-          subtitle: "I am a physicist in background and engineer in practice."
+          subtitle: "I am a physicist"
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Nir Goldfriend
+          imageTitle: Nir
           buttons:
-            - name: Papers
+            - name: Research
               url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://www.linkedin.com/in/nir-goldfriend-a556b6176
-
+            - name: Work in Progress
+              url: wp/
+            #- name: Data
+             # url: data/
+            #- name: Readings
+             # url: readings/
+            #- name: Tags
+             # url: tags/
+            #- name: Archive
+             # url: archive/
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:nir.physicsmaster@gmail.com
-        - name: Location
-          url: location/
-    
+          url: mailto:nirgf@gmail.com
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/nir-goldfriend-a556b6176/
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: X (Twitter)
-          url: https://twitter.com/McCallSmith
+          url: https://www.linkedin.com/in/nir-goldfriend-a556b6176
+        - name: Twitter
+          url: https://www.linkedin.com/in/nir-goldfriend-a556b6176
 
     assets:
+        disableHLJS: true
         disableScrollBarStyle: true
     cover:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Nir Goldfriend"
       icon: favicon.ico
       iconHeight: 18
 
