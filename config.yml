@@ -27,7 +27,7 @@ menu:
           #weight: 4
 
 params:
-    description: "I am a physicist"
+    description: "I am a physicist in background and engineer in practice."
     author: Nir
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -52,7 +52,7 @@ params:
     profileMode:
           enabled: true
           title: Nir Goldfriend
-          subtitle: "I am a physicist"
+          subtitle: "I am a physicist in background and engineer in practice. Currently I'm at Apple, working on cameras and depth sensors architecture. Before that, I work on photoacoustic imaging which is an emerging technology combining optics, acoustic, singal processing and computational optimzation."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -74,13 +74,13 @@ params:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:nirgf@gmail.com
+          url: mailto:nircko@yahoo.com
         - name: LinkedIn
           url: https://www.linkedin.com/in/nir-goldfriend-a556b6176/
         - name: GitHub
-          url: https://www.linkedin.com/in/nir-goldfriend-a556b6176
-        - name: Twitter
-          url: https://www.linkedin.com/in/nir-goldfriend-a556b6176
+          url: https://github.com/nircko
+        # - name: Twitter
+          # url: https://www.linkedin.com/in/nir-goldfriend-a556b6176
 
     assets:
         disableHLJS: true
