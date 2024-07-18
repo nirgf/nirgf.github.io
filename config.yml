@@ -1,4 +1,4 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
+baseURL: ""https://nirgf.github.io" 
 title: Nir Goldfriend
 paginate: 20
 theme: PaperMod
