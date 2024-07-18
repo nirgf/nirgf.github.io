@@ -57,11 +57,11 @@ params:
           imageWidth: 160
           imageHeight: 160
           imageTitle: Nir
-          buttons:
-            - name: Research
-              url: papers/
-            - name: Work in Progress
-              url: wp/
+          # buttons:
+          #   - name: Research
+          #     url: papers/
+          #   - name: Work in Progress
+          #     url: wp/
             #- name: Data
              # url: data/
             #- name: Readings
