@@ -30,7 +30,7 @@ params:
     description: "I am a physicist in background and engineer in practice."
     author: Nir
     # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
+    DateFormat: "January 2009"
     defaultTheme: light
     hideFooter: false
     disableThemeToggle: true
