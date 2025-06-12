@@ -52,7 +52,7 @@ params:
     profileMode:
           enabled: true
           title: Nir Goldfriend
-          subtitle: "I am a physicist in background and engineer in practice. Currently I'm at Apple, working on cameras and depth sensors architecture. Before that, I worked on photoacoustic imaging which is an emerging technology combining optics, acoustic, singal processing and computational optimzation."
+          subtitle: "I am a physicist in background and engineer in practice. I'm currently the co-founder of a stealth-mode startup operating at the intersection of remote sensing and advanced imaging. Prior to that, I worked at [Apple](https://www.apple.com), contributing to cutting-edge tech initiatives. I hold an MSc in Applied Physics, where my thesis focused on computational photoacoustic imaging — an emerging field that fuses optics, acoustics, signal processing, and optimization algorithms"
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
