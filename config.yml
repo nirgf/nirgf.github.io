@@ -76,7 +76,7 @@ params:
         - name: Email
           url: mailto:nir.goldfriend@gmail.com
         - name: LinkedIn
-          url: https://www.linkedin.com/in/nir-goldfriend-a556b6176/
+          url: https://www.linkedin.com/in/nir-goldfriend/
         - name: GitHub
           url: https://github.com/nircko
         # - name: Twitter
