@@ -1,4 +1,4 @@
-baseURL: "https://nirgf.github.io" 
+baseURL: "https://nir.goldfriend.xyz" #"https://nirgf.github.io" 
 title: Nir Goldfriend
 paginate: 20
 theme: PaperMod
