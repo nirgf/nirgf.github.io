@@ -3,6 +3,8 @@ title: Nir Goldfriend
 paginate: 20
 theme: PaperMod
 
+publishDir: "public"
+
 enableInlineShortcodes: true
 enableRobotsTXT: true
 
@@ -49,6 +51,7 @@ params:
     UseHugoToc: true
     comments: false
     math: true
+    social: {}
     profileMode:
           enabled: true
           title: Nir Goldfriend
