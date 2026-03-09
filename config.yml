@@ -72,7 +72,7 @@ params:
              # url: archive/
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: cv_nir.pdf
         - name: Email
           url: mailto:nir.goldfriend@gmail.com
         - name: LinkedIn
